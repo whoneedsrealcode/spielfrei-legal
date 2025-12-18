@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-*Stand: Dezember 2024*
+*Stand: Dezember 2025*
 
 ## 1. Verantwortlicher
 
