@@ -1,95 +1,109 @@
 # Datenschutzerklärung
 
-*Stand: Dezember 2025*
+**Stand: Dezember 2025**
 
 ## 1. Verantwortlicher
 
-**Philipp Langle**  
-Römerstraße 102  
-69115 Heidelberg  
-Deutschland  
+Philipp Langle
+Römerstraße 102
+69115 Heidelberg
+Deutschland
 
-E-Mail: support-spielfrei@gmail.com
+E-Mail: support@spielfrei.app
 
 ## 2. Übersicht
 
-Spielfrei ist eine App zur Selbsthilfe bei Glücksspielsucht. Der Schutz Ihrer persönlichen Daten ist uns besonders wichtig. Diese Datenschutzerklärung informiert Sie darüber, welche Daten wir erheben und wie wir diese verwenden.
+Spielfrei ist eine App zur Selbsthilfe bei Glücksspielsucht. Der Schutz deiner persönlichen Daten ist uns besonders wichtig.
 
-**Kurzfassung:** Spielfrei speichert alle Daten ausschließlich lokal auf Ihrem Gerät. Es werden keine persönlichen Daten an uns oder Dritte übertragen.
+> **Kurzfassung:** Spielfrei speichert fast alle Daten lokal auf deinem Gerät. Nur wenn du freiwillig deine E-Mail-Adresse angibst, wird diese auf unseren Servern gespeichert.
 
-## 3. Welche Daten werden verarbeitet?
+## 3. Lokal gespeicherte Daten
 
-### 3.1 Lokal gespeicherte Daten
+Folgende Daten werden ausschließlich auf deinem Gerät gespeichert:
 
-Folgende Daten werden ausschließlich auf Ihrem Gerät gespeichert:
+- **App-Auswahl:** Die von dir ausgewählten Apps, die blockiert werden sollen
+- **Einstellungen:** Deine persönlichen App-Einstellungen
+- **Vertrauensperson:** Name und Telefonnummer deiner Vertrauensperson (falls angegeben)
+- **Screen Time Daten:** Werden vom iOS Screen Time Framework verwaltet und verbleiben auf deinem Gerät
 
-- **App-Auswahl:** Die von Ihnen ausgewählten Apps, die blockiert werden sollen
-- **Einstellungen:** Ihre persönlichen App-Einstellungen (z.B. Sperrzeitraum)
-- **Screen Time Daten:** Informationen zur Bildschirmzeit werden vom iOS Screen Time Framework verwaltet und verbleiben auf Ihrem Gerät
+**Wichtig:** Diese Daten verlassen dein Gerät nicht und werden nicht an Server übertragen.
 
-**Wichtig:** Diese Daten verlassen Ihr Gerät nicht und werden nicht an Server übertragen.
+## 4. E-Mail-Adresse (optional)
 
-### 3.2 Keine Datenerhebung durch uns
+Wenn du dich während des Onboardings für unseren Newsletter anmeldest, wird deine E-Mail-Adresse verarbeitet:
 
-Wir erheben, speichern oder verarbeiten keine:
+- **Zweck:** Zusendung von Tipps, Updates und Informationen rund um Spielfrei
+- **Rechtsgrundlage:** Deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO)
+- **Speicherort:** Cloudflare Workers KV (Cloudflare, Inc., USA)
+- **Speicherdauer:** Bis zum Widerruf deiner Einwilligung
 
-- Persönlichen Identifikationsdaten
-- Nutzungsstatistiken
-- Standortdaten
-- Kontaktdaten
-- Geräteinformationen
+Die Angabe ist freiwillig. Du kannst diesen Schritt jederzeit überspringen.
 
-## 4. Apple Screen Time / Family Controls
+## 5. Cloudflare als Auftragsverarbeiter
 
-Spielfrei nutzt Apples Screen Time Framework (Family Controls), um Apps auf Ihrem Gerät zu blockieren. Diese Funktion wird vollständig von Apple verwaltet:
+Für die Speicherung der E-Mail-Adressen nutzen wir Cloudflare Workers KV:
+
+- **Anbieter:** Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA
+- Cloudflare ist nach dem EU-U.S. Data Privacy Framework zertifiziert
+- Ein Auftragsverarbeitungsvertrag (DPA) gemäß Art. 28 DSGVO liegt vor
+- Weitere Informationen: [cloudflare.com/privacypolicy](https://cloudflare.com/privacypolicy)
+
+## 6. Apple Screen Time / Family Controls
+
+Spielfrei nutzt Apples Screen Time Framework (Family Controls), um Apps auf deinem Gerät zu blockieren:
 
 - Die Blockierung erfolgt auf Systemebene durch iOS
-- Wir haben keinen Zugriff auf Ihre Screen Time Daten
-- Apple verarbeitet diese Daten gemäß der [Apple Datenschutzrichtlinie](https://www.apple.com/legal/privacy/)
+- Wir haben keinen Zugriff auf deine Screen Time Daten
+- Apple verarbeitet diese Daten gemäß der Apple Datenschutzrichtlinie
 
-## 5. Website-Blockierung (DNS)
+## 7. Website-Blockierung (DNS)
 
-Die optionale Website-Blockierung erfolgt über eine lokale VPN-Konfiguration auf Ihrem Gerät:
+Die optionale Website-Blockierung erfolgt über eine lokale VPN-Konfiguration auf deinem Gerät:
 
 - Es wird kein externer VPN-Server verwendet
 - DNS-Anfragen werden lokal auf dem Gerät gefiltert
 - Keine Browsing-Daten werden erfasst oder übertragen
 
-## 6. Keine Analyse- oder Tracking-Tools
+## 8. Keine Analyse- oder Tracking-Tools
 
 Spielfrei verwendet keine:
 
-- Analytics-Dienste (wie Google Analytics, Firebase Analytics, etc.)
+- Analytics-Dienste (wie Google Analytics, Firebase, etc.)
 - Crash-Reporting-Dienste
 - Werbe-SDKs oder Tracking-Pixel
 - Social-Media-Plugins
 
-## 7. Datenweitergabe an Dritte
+## 9. App Store Käufe
 
-Da wir keine personenbezogenen Daten erheben, erfolgt auch keine Weitergabe an Dritte.
+Käufe werden über den Apple App Store abgewickelt. Die dabei anfallenden Zahlungsdaten werden ausschließlich von Apple verarbeitet. Wir erhalten keine Zahlungsinformationen.
 
-## 8. Datensicherheit
+## 10. Datenweitergabe an Dritte
 
-Alle Daten werden ausschließlich lokal auf Ihrem Gerät gespeichert und durch die Sicherheitsmechanismen von iOS geschützt (Verschlüsselung, Sandbox, etc.).
+Außer der optionalen Speicherung deiner E-Mail-Adresse bei Cloudflare (siehe Abschnitt 4 und 5) erfolgt keine Weitergabe personenbezogener Daten an Dritte.
 
-## 9. Ihre Rechte
+## 11. Datensicherheit
 
-Da alle Daten lokal auf Ihrem Gerät gespeichert werden, haben Sie die volle Kontrolle:
+Lokale Daten werden durch die Sicherheitsmechanismen von iOS geschützt (Verschlüsselung, Sandbox). E-Mail-Adressen werden verschlüsselt bei Cloudflare gespeichert.
 
-- **Einsicht:** Alle Daten sind in der App einsehbar
-- **Löschung:** Durch Deinstallation der App werden alle Daten gelöscht
-- **Änderung:** Sie können Ihre Einstellungen jederzeit in der App ändern
+## 12. Deine Rechte
 
-## 10. Kinder und Jugendliche
+Du hast folgende Rechte bezüglich deiner Daten:
 
-Spielfrei richtet sich an erwachsene Nutzer. Die App erhebt keine Daten von Kindern oder Jugendlichen.
+- **Auskunft:** Anfrage per E-Mail an support@spielfrei.app
+- **Löschung der E-Mail:** Widerruf per E-Mail an support@spielfrei.app
+- **Löschung lokaler Daten:** Durch Deinstallation der App
+- **Widerspruch:** Du kannst der Verarbeitung jederzeit widersprechen
+- **Beschwerde:** Du hast das Recht, dich bei einer Aufsichtsbehörde zu beschweren
 
-## 11. Änderungen dieser Datenschutzerklärung
+## 13. Kinder und Jugendliche
 
-Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen. Die aktuelle Version finden Sie stets unter dieser URL.
+Spielfrei richtet sich an erwachsene Nutzer. Die App erhebt keine Daten von Kindern oder Jugendlichen unter 16 Jahren.
 
-## 12. Kontakt
+## 14. Änderungen
 
-Bei Fragen zum Datenschutz können Sie uns erreichen unter:
+Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen. Die aktuelle Version ist immer in der App einsehbar.
 
-E-Mail: support-spielfrei@gmail.com
+## 15. Kontakt
+
+Bei Fragen zum Datenschutz erreichst du uns unter:
+support@spielfrei.app
